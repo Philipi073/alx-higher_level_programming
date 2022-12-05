@@ -14,6 +14,5 @@ def principal():
         print('{}: {}'.format(i, argv[i]))
 
 
-    if __name__ == "__main__":
-        principal()
-
+if __name__ == "__main__":
+    principal()
